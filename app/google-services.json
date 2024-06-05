@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "259950375325",
+    "project_id": "komunalkoff",
+    "storage_bucket": "komunalkoff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259950375325:android:b8dee4ef8060e2ac6b3f74",
+        "android_client_info": {
+          "package_name": "com.example.komunalkoff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEPNyECQx79GO_q0XMGprxOfGpkHQ78bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

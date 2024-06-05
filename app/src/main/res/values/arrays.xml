@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="simple_items">
+        <item>Избранное</item>
+        <item>С семьей</item>
+        <item>С девушкой</item>
+        <item>Хорроры</item>
+    </string-array>
+    <string-array name="service_types">
+        <item>Свет</item>
+        <item>Вода</item>
+        <item>Отопление</item>
+        <item>Водоотведение</item>
+        <item>Другое</item>
+    </string-array>
+</resources>

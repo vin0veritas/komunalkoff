@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home"
+        android:title="Главная"/>
+    <item
+        android:id="@+id/expense"
+        android:enabled="true"
+        android:icon="@drawable/ic_payments"
+        android:title="Расход"/>
+    <item
+        android:id="@+id/rate"
+        android:enabled="true"
+        android:icon="@drawable/ic_rate"
+        android:title="Тариф"/>
+    <item
+        android:id="@+id/income"
+        android:enabled="true"
+        android:icon="@drawable/ic_savings"
+        android:title="История"/>
+    <item
+        android:id="@+id/profile"
+        android:enabled="true"
+        android:icon="@drawable/ic_profile"
+        android:title="Профиль"/>
+    <item
+        android:id="@+id/app_info"
+        android:icon="@drawable/ic_info"
+        android:title="App Info" />
+</menu>
